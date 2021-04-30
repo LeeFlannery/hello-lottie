@@ -13,6 +13,7 @@
 		DC18FCC92632068C00D013D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC18FCC72632068C00D013D9 /* Main.storyboard */; };
 		DC18FCCB2632069200D013D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC18FCCA2632069200D013D9 /* Assets.xcassets */; };
 		DC18FCCE2632069200D013D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC18FCCC2632069200D013D9 /* LaunchScreen.storyboard */; };
+		DCB5F537263C504A00F5BF65 /* LottieAnimations in Resources */ = {isa = PBXBuildFile; fileRef = DCB5F536263C504A00F5BF65 /* LottieAnimations */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DC18FCCA2632069200D013D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC18FCCD2632069200D013D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC18FCCF2632069200D013D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCB5F536263C504A00F5BF65 /* LottieAnimations */ = {isa = PBXFileReference; lastKnownFileType = folder; path = LottieAnimations; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		DC18FCC02632068C00D013D9 /* hello-lottie */ = {
 			isa = PBXGroup;
 			children = (
+				DCB5F536263C504A00F5BF65 /* LottieAnimations */,
 				DC18FCC12632068C00D013D9 /* AppDelegate.swift */,
 				DC18FCC32632068C00D013D9 /* SceneDelegate.swift */,
 				DC18FCC52632068C00D013D9 /* ViewController.swift */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCB5F537263C504A00F5BF65 /* LottieAnimations in Resources */,
 				DC18FCCE2632069200D013D9 /* LaunchScreen.storyboard in Resources */,
 				DC18FCCB2632069200D013D9 /* Assets.xcassets in Resources */,
 				DC18FCC92632068C00D013D9 /* Main.storyboard in Resources */,
