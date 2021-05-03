@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  ohailottie
+//  hello-lottie
 //
 //  Created by Lee Flannery on 4/17/21.
 //
@@ -38,4 +38,3 @@ class ViewController: UIViewController {
 
 
 }
-
